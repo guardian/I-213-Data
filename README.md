@@ -19,7 +19,7 @@ Columns that we removed are:
 - BIRTH_CITY_NAME
 - APP_LDMK_OTHER_COMMENT_TEXT
 
-Many fields are the same as those included in the Deportation Data Project, so consult their documentation as well: https://deportationdata.org/docs/ice.html
+Many fields are the same as those included in the Deportation Data Project, so consult [their documentation as well](https://deportationdata.org/docs/ice.html).
 
 If you make use of this data, please cite the Guardian and [let me know](mailto:will.craft@theguardian.com). I will include a link to stories here.
 
