@@ -27,11 +27,11 @@ If you make use of this data, please cite the Guardian and [let me know](mailto:
 #### Links
 
 ###### News stories using I-213 data
-[Worst of the worst? Most US immigrants targeted for deportation in 2025 had no criminal charges, documents reveal](https://www.theguardian.com/us-news/2026/feb/22/us-immigration-trump-administration)
+[Worst of the worst? Most US immigrants targeted for deportation in 2025 had no criminal charges, documents reveal](https://www.theguardian.com/us-news/2026/feb/22/us-immigration-trump-administration), The Guardian
 
 TK new story
 
-[Trump Has Detained the Parents of More Than 11,000 U.S. Citizen Kids](https://www.propublica.org/article/trump-family-deportations-ice-citizen-kids)
+[Trump Has Detained the Parents of More Than 11,000 U.S. Citizen Kids](https://www.propublica.org/article/trump-family-deportations-ice-citizen-kids), ProPublica
 
 ###### Studies and documents
 [New Data on PNW Immigration Enforcement Reveal Powerful Surge in Late 2025](https://jsis.washington.edu/humanrights/2026/03/11/new-data-on-pnw-immigration-enforcement-reveal-powerful-surge-in-late-2025/)
