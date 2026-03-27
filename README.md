@@ -34,11 +34,11 @@ TK new story
 [Trump Has Detained the Parents of More Than 11,000 U.S. Citizen Kids](https://www.propublica.org/article/trump-family-deportations-ice-citizen-kids), ProPublica
 
 ###### Studies and documents
-[New Data on PNW Immigration Enforcement Reveal Powerful Surge in Late 2025](https://jsis.washington.edu/humanrights/2026/03/11/new-data-on-pnw-immigration-enforcement-reveal-powerful-surge-in-late-2025/)
+[New Data on PNW Immigration Enforcement Reveal Powerful Surge in Late 2025](https://jsis.washington.edu/humanrights/2026/03/11/new-data-on-pnw-immigration-enforcement-reveal-powerful-surge-in-late-2025/), University of Washington Center for Human Rights
 
-[University of Washington I-213 Analysis](https://github.com/UWCHR/i-213-analysis)
+[I-213 Analysis](https://github.com/UWCHR/i-213-analysis), University of Washington Center for Human Rights
 
-[What to do when ICE submits an I-213 in immigration court](https://www.ilrc.org/sites/default/files/2023-12/What%20to%20Do%20When%20ICE%20Submits%20an%20I-213%20In%20Immigration%20Court.pdf)
+[What to do when ICE submits an I-213 in immigration court](https://www.ilrc.org/sites/default/files/2023-12/What%20to%20Do%20When%20ICE%20Submits%20an%20I-213%20In%20Immigration%20Court.pdf), Imigration Legal Resource Center
 
 [ICE 287 (G) Participant Workbook - I-213 Preparation](https://www.scribd.com/document/21968656/ICE-287-g-Participant-Workbook-I-213-Preparation)
 
