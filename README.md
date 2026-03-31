@@ -33,6 +33,8 @@ TK new story
 
 [Trump Has Detained the Parents of More Than 11,000 U.S. Citizen Kids](https://www.propublica.org/article/trump-family-deportations-ice-citizen-kids), ProPublica
 
+[After Trump called Portland ‘war-ravaged,’ ICE apprehensions near the city spiked 600%](https://www.opb.org/article/2026/03/13/oregon-portland-ice-apprehensions-multnomah-washington-marion/), Oregon Public Broadcasting
+
 ###### Studies and documents
 [New Data on PNW Immigration Enforcement Reveal Powerful Surge in Late 2025](https://jsis.washington.edu/humanrights/2026/03/11/new-data-on-pnw-immigration-enforcement-reveal-powerful-surge-in-late-2025/), University of Washington Center for Human Rights
 
