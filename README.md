@@ -59,7 +59,7 @@ GENDER_CODE | Gender. ICE uses three values: `M`, `F`, `U`
 AGE | Age
 BIRTH_COUNTRY_DESCR | Birth country
 MARITAL_STATUS_DESCR | Marital status
-OCCUPATION_TEXT | Occupation. This is a messy column, and (page 5)[https://www.scribd.com/document/21968656/ICE-287-g-Participant-Workbook-I-213-Preparation] of the 287g I-213 instruction manual says to fill it out as "laborer" if the person worked multiple jobs. 
+OCCUPATION_TEXT | Occupation. This is a messy column, and [page 5](https://www.scribd.com/document/21968656/ICE-287-g-Participant-Workbook-I-213-Preparation) of the 287g I-213 instruction manual says to fill it out as "laborer" if the person worked multiple jobs. 
 APPREHENSION_DATE | Date of initial apprehension.
 APPREHENSION_METHOD_DESCR | Method of apprehension. For details see: https://deportationdata.org/docs/ice.html 
 APPREHENSION_LANDMARK_DESCR | General description of where the person was apprehended.
