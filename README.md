@@ -35,6 +35,8 @@ If you make use of this data, please cite the Guardian and [let me know](mailto:
 
 [After Trump called Portland ‘war-ravaged,’ ICE apprehensions near the city spiked 600%](https://www.opb.org/article/2026/03/13/oregon-portland-ice-apprehensions-multnomah-washington-marion/), Oregon Public Broadcasting
 
+[ICE Arrests Doubled the Moment Trump Was Sworn In](https://thepunchup.substack.com/p/ice-arrests-doubled-the-moment-trump), PunchUp
+
 ###### Studies and documents
 [New Data on PNW Immigration Enforcement Reveal Powerful Surge in Late 2025](https://jsis.washington.edu/humanrights/2026/03/11/new-data-on-pnw-immigration-enforcement-reveal-powerful-surge-in-late-2025/), University of Washington Center for Human Rights
 
