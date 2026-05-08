@@ -29,7 +29,7 @@ If you make use of this data, please cite the Guardian and [let me know](mailto:
 ###### News stories using I-213 data
 [Worst of the worst? Most US immigrants targeted for deportation in 2025 had no criminal charges, documents reveal](https://www.theguardian.com/us-news/2026/feb/22/us-immigration-trump-administration), The Guardian
 
-[Revealed: The Trump administration arrested the parents of at least 27,000 kids in seven months](https://www.theguardian.com/us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested)
+[Revealed: The Trump administration arrested the parents of at least 27,000 kids in seven months](https://www.theguardian.com/us-news/ng-interactive/2026/may/08/trump-administration-parents-arrested), The Guardian
 
 [Trump Has Detained the Parents of More Than 11,000 U.S. Citizen Kids](https://www.propublica.org/article/trump-family-deportations-ice-citizen-kids), ProPublica
 
